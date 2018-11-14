@@ -1,4 +1,5 @@
 # zt0ne's edited version of Luke's build of st - the simple (suckless) terminal
+For the original README and to check out all of Luke's contributions, check out Luke's [GitHub](https://github.com/LukeSmithxyz/st)
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features:
 
@@ -16,13 +17,6 @@ The [suckless terminal (st)](https://st.suckless.org/) with some additional feat
 + Vertcenter
 + Scrollback
 + updated to latest version 0.8.1
-
-The following additional bindings were added before I forked this:
-
-+ Scroll through history -- Shift+PageUp/PageDown or Shift+Mouse wheel
-+ Increase/decrease font size -- Shift+Alt+PageUp/PageDown
-+ Return to default font size -- Shift+Alt+Home
-+ Paste -- Shift+Insert
 
 ## Installation for newbs
 
@@ -65,8 +59,3 @@ To be clear about the color settings:
 Note that when you run `wal`, it will negate the transparency of existing
 windows, but new windows will continue with the previously defined
 transparency.
-
-## Contact
-
-- Luke Smith <luke@lukesmith.xyz>
-- [https://lukesmith.xyz](https://lukesmith.xyz)
