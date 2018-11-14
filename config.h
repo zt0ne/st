@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "mono:pixelsize=16:antialias=true:autohint=true";
+static char *font = "LiberationMono-Regular:pixelsize=14:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
@@ -83,10 +83,10 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-unsigned int alpha = 0xed;
+unsigned int alpha = 0xFF;
 
 static const char *colorname[] = {
-	"#073642",  /*  0: black    */
+	"#181D26",  /*  0: black    */
 	"#dc322f",  /*  1: red      */
 	"#859900",  /*  2: green    */
 	"#b58900",  /*  3: yellow   */
@@ -131,8 +131,8 @@ static unsigned int cursorshape = 2;
  * Default columns and rows numbers
  */
 
-static unsigned int cols = 80;
-static unsigned int rows = 24;
+static unsigned int cols = 140;
+static unsigned int rows = 60;
 
 /*
  * Default colour and shape of the mouse cursor

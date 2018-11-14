@@ -1,0 +1,4 @@
+# Ignore BUILD files, since the build can be run by calling make and make install ...
+st
+st.o
+x.o
