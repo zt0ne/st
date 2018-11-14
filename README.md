@@ -1,4 +1,4 @@
-# Luke's build of st - the simple (suckless) terminal
+# zt0ne's edited version of Luke's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features:
 
